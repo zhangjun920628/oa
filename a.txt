@@ -1,3 +1,7 @@
 hello
 how are you
-master
+thanks
+ste
+yes
+no:wq
+
